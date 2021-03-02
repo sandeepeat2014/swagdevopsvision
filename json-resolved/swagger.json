@@ -1,0 +1,10 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "api testing description",
+    "version" : "1.0.0",
+    "title" : "api test 2"
+  },
+  "paths" : { },
+  "definitions" : { }
+}
